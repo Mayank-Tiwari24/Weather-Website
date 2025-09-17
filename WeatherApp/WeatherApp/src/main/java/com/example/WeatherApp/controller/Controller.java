@@ -1,6 +1,5 @@
 package com.example.WeatherApp.controller;
 
-
 import com.example.WeatherApp.dto.WeatherForeCast;
 import com.example.WeatherApp.dto.WeatherResponse;
 import com.example.WeatherApp.service.WeatherService;
